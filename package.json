@@ -1,0 +1,32 @@
+{
+  "name": "pipebag",
+  "version": "0.0.0",
+  "description": "to play and go with the dataflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/pipebag.git"
+  },
+  "keywords": [
+    "pipe",
+    "stream",
+    "pump",
+    "flow",
+    "dataflow",
+    "channel",
+    "async",
+    "channels",
+    "reactive",
+    "controlflow",
+    "flowcontrol"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/pipebag/issues"
+  },
+  "homepage": "https://github.com/serapath/pipebag#readme"
+}
